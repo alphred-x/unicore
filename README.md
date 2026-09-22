@@ -4,7 +4,7 @@ UniCore is a robust, cloud-native backend designed to modernize college manageme
 
 This repository contains the **Backend API** built with Spring Boot and secured with Spring Security & JWT.
 
-## 🚀 Key Features
+## Key Features
 
 * **Microservices Architecture:** Modular design for high availability and fault tolerance.
 * **Secure Authentication:** User registration and login protected by BCrypt password hashing.
@@ -12,7 +12,7 @@ This repository contains the **Backend API** built with Spring Boot and secured 
 * **Role-Based Data:** Foundation for separating Student, Faculty, and Admin roles.
 * **PostgreSQL Integration:** Reliable, persistent data storage.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Language:** Java 17
 * **Framework:** Spring Boot 3
@@ -21,7 +21,7 @@ This repository contains the **Backend API** built with Spring Boot and secured 
 * **Build Tool:** Maven
 * **Tools:** IntelliJ IDEA, Postman
 
-## ⚙️ Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -34,7 +34,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/unicore.git](https://github.com/YOUR_GITHUB_USERNAME/unicore.git)
+    git clone https://github.com/YOUR_GITHUB_USERNAME/unicore.git
     cd unicore
     ```
 
@@ -88,7 +88,7 @@ You can test these endpoints using Postman.
     }
     ```
 
-## 👥 Team Decoderz
+## Team Decoderz
 
 * **[AMAN PRAJAPATI]** - Backend Developer
 * **[SPARSH TOMAR]** - Database Architect
